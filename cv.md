@@ -21,7 +21,7 @@ Operating systems: Windows (7,8,10), macOS
 Concepts: networking, operating systems
 
 CERTIFICATIONS:
-3 Rank chess medal
+3 Rank chess medal 
 Price winner in International Competition of Judo
 Price winner in rifle Shooting
 
